@@ -107,20 +107,3 @@ Feel free to reach out if you'd like to discuss:
 
 📧 jenocent.work@gmail.com  
 🔗 [GitHub](https://github.com/jenocentedwardraj)
-
-
-
----
-
-## 📍 Professional Context
-
-This project was completed as part of the “**Big Data & AI in Business**” course at Arizona State University. It reflects real-world data science workflows and is featured on my resume across multiple roles — from **quantitative finance** to **product analytics** to **compliance analytics**.
-
----
-
-## 📬 Contact
-
-If you'd like to discuss the pipeline, request enhancements, or learn how I adapt this approach to other domains (e.g., credit risk modeling or trend forecasting), feel free to connect:
-
-📧 jenocent.work@gmail.com  
-🔗 [GitHub Profile](https://github.com/jenocentedwardraj)
