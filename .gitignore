@@ -1,0 +1,23 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary Microsoft Office files
+~$*
+
+# macOS + Windows system files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment folders (if you ever add one)
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Temporary files
+*.log
+*.tmp
